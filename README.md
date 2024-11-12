@@ -1,4 +1,4 @@
 # biquadris
-CS246 (OOP) final project
+uWaterloo CS246 (Object-Oriented Software Development) final project
 
 by Kush, Abdul, and Yash
